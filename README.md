@@ -4,7 +4,7 @@
 
 Simple practice using Bootstrap.
 
-## Used In This Project
+## Used In This Repository
 
 - HTML5
 - CSS
