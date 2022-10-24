@@ -11,13 +11,7 @@ Simple practice using Bootstrap.
 
 ## Getting Started
 
-### Dependencies
-
-No dependencies.
-
-### Setup
-
-* Deployment: [GitHub Pages](https://a-bikombe.github.io/bootstrap-practice/)
+Deployment: [GitHub Pages](https://a-bikombe.github.io/bootstrap-practice/)
 
 ## Version History
 
